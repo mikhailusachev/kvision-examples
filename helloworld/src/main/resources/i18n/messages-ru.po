@@ -20,4 +20,4 @@ msgstr ""
 
 #: src/main/kotlin/com/example/Helloworld.kt:21
 msgid "Hello world!"
-msgstr "Здравствулте мир!"
+msgstr "Здравствуй мир!"
